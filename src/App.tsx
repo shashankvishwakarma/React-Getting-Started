@@ -24,6 +24,7 @@ function Header() {
   )
 }
 
+// @ts-ignore
 function CoreConcept({image, title, description}) {
   return (
       <li>
@@ -49,7 +50,6 @@ function App() {
               <CoreConcept {...CORE_CONCEPTS[3]}/>
             </ul>
           </section>
-          <h2>Time to get started!</h2>
         </main>
       </div>
   );
