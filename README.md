@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
   uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Scaffolding Your First Vite Project
+## Start a New React Project with Vite
 
-https://vitejs.dev/guide/
+- [React starter](https://vitejs.dev/guide/)
 
 ```bash
 npm create vite@latest
