@@ -108,6 +108,7 @@ main h2 {
 
 #tab-content {
   padding: 1rem;
+  text-align: left;
   border-radius: 6px;
   background-color: #2f1d43;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
